@@ -10,3 +10,6 @@ git commit -m "message"
 git push -u origin master
 
 Go modules
+
+Day - 2
+Conversions - T(x)
